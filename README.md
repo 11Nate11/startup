@@ -1,7 +1,3 @@
-# Startup
+# Startup Notes
 
-this is a test
-
-this is a test again
-
-this is a test again again (again)
+I learned how to resolve a merge conflict!
