@@ -11,4 +11,4 @@ Plen is an innovative new planning website that is designed to take your product
 
 ## Preview
 
-![Preview](preview.png "Preview")
+![Preview](preview.jpeg "Preview")
