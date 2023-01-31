@@ -12,3 +12,11 @@ Plen is an innovative new planning website that is designed to take your product
 ## Preview
 
 ![Preview](preview.jpeg "Preview")
+
+## Server IP
+
+http://3.138.39.135/
+
+ssh -i production.pem ubuntu@3.138.39.135
+
+
